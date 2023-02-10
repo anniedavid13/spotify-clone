@@ -45,6 +45,7 @@ These instructions will get you a copy of the project up and running on your loc
 
 ## Built With
 React - JavaScript library for building user interfaces
+
 Spotify Web API - Spotify Web API provides access to Spotify's music catalog and user data
 
 ## License
