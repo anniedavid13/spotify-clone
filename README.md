@@ -6,7 +6,7 @@ This is a simple Spotify clone application built with React and the Spotify API.
 - Responsive design for optimal viewing on various devices
 - Dynamic rendering of my portfolio items using React components
 - Clean and modern user interface
-- Option to view the source code of each project
+
 
 ## Getting Started
 
@@ -50,7 +50,7 @@ Spotify Web API - Spotify Web API provides access to Spotify's music catalog and
 ## License
 This project is licensed under the MIT License.
 
-![web1](https://user-images.githubusercontent.com/91792578/217996017-377c0f21-03d5-4066-9e6d-e8f8ab7ce0fd.png)
+
 
 ## Contact
 Feel free to contact me for any questions or collaboration opportunities:
@@ -59,7 +59,7 @@ Email: anniedavid407@gmail.com
 LinkedIn: https://www.linkedin.com/in/annie-david-b36431215/
 
 
-## Thank you for visiting my portfolio!
+## Thank you for visiting!
 
 
-
+![web1](https://user-images.githubusercontent.com/91792578/217996017-377c0f21-03d5-4066-9e6d-e8f8ab7ce0fd.png)
