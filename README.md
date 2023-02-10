@@ -14,7 +14,9 @@ This is a simple Spotify clone application built with React and the Spotify API.
 Before you begin, make sure you have the following software installed on your computer:
 
 Node.js
+
 npm or yarn (recommended)
+
 Spotify account with a valid Spotify API key
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
