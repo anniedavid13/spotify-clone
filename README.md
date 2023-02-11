@@ -4,7 +4,6 @@ This is a simple Spotify clone application built with React and the Spotify API.
 
 ## Features
 - Responsive design for optimal viewing on various devices
-- Dynamic rendering of my portfolio items using React components
 - Clean and modern user interface
 
 
