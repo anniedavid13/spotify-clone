@@ -2,7 +2,7 @@ import React,{useEffect} from 'react'
 import Login from './components/Login'
 import Spotify from './components/Spotify'
 import { reducerCases } from './utils/Constants'
-import reducer from './utils/reducer'
+// import reducer from './utils/reducer'
 import { useStateProvider } from './utils/StateProvider'
 
 export default function App() {
